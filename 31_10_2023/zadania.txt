@@ -1,0 +1,23 @@
+1.
+
+1. <center> - Został zdeprecjonowany do wyrównania treści
+2. <font> - był używany do zmiany rozmiaru i koloru tekstu
+3. <frame> - zdeprecjowany na rzecz ramek typu <iframe>
+4. align - używany do wyrównania obrazów
+5. border - określa szerokość obramowania obrazów
+6. bgcolor - służył do określania koloru tła elementów
+7. valing - używany do wyrównania treści w komórkach tabeli
+8. frameborder - zdeprecjowany na rzecz stylizacji ramek
+9. alink - zdeprecjowany do kontrolowania kolorów linków
+10.
+
+2.
+-5.0 nie jest jeszcze oficjalnym standadem, to ciągle jeszcze projekt
+-w HTML5 możemy tworzyć proste skrypty oparte na gotowych tagach
+-mamy więcej tagów wyspecjalizowanych w opisie poszczególnych sesji (z HTML5 zmienia się więc znacząco semantyka)
+
+3.
+
+HTML 4.0 -
+HTML 4.01 -
+HTML 5.0 -
