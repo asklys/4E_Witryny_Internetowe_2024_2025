@@ -1,0 +1,60 @@
+Zadanie 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<br>Logowanie:</br>
+<hr>
+    <form action="mailto:haslo@szkola.pl"
+        method="post">
+            Login <br>
+            <input type="text" name="Login:"></br>
+            Hasło <br>
+            <input type="text" name="Hasło"></br>
+        <hr>
+            <input type="submit" value="Wyślij">
+
+    </form>
+</body>
+</html>
+Zadanie 2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <hr1>Styczeń 2024</hr1>
+    <table border="1">
+        <tr><td>Pon</td><td>Wt</td><td>Śr</td><td>Czw</td><td>Pt</td><td>Sb</td><td>Nd</td> <br> </tr>
+        <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td> <br> </tr>
+        <tr><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td> <br> </tr>
+        <tr><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td> <br> </tr>
+        <tr><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td> <br> </tr>
+        <tr><td>29</td><td>30</td><td>31</td> <br> </tr>
+    </table>
+</body>
+</html>
+Zadanie 3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<table border="2">
+<tr><td colspan="3">Nagłówek na zielonym tle</td></tr>
+<tr><td>nagłówek1</td><td>nagłówek2</td><td>nagłowek3</td></tr>
+<tr><td>komórka 1</td><td>komórka 2</td><td>komórka 3</td></tr>
+<tr><td>komórka 4</td><td>komórka 5</td><td>komórka 6</td></tr>
+</table>
+</body>
+</html>
